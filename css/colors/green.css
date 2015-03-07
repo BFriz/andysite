@@ -1,0 +1,33 @@
+/* green - #6dcff2 */
+
+
+a:link,a:visited,.navbar-default .navbar-nav>li>a:hover, 
+.navbar-default .navbar-nav>li>a:focus,a:hover,a:active,.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav>.active>a:focus{
+	color:#6dcff2;
+}
+
+.spacer,.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus,#grid .mix .overlay {
+color: #555;
+background: #6dcff2;
+}
+
+#page-contact{
+	background: #6dcff2;
+	color:#555;
+}
+
+#page-contact .spacer{
+	background: #555;
+}
+
+#page-contact .section-title{
+	color:#555;
+}
+
+.btn.btn-default:hover,
+.btn.btn-default:active{
+    color:#6dcff2;
+}
+
